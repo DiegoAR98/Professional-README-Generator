@@ -38,3 +38,7 @@ To run tests, ensure that all development dependencies are installed by running 
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at diegoaraujolive@hotmail.com. You can find more of my work at [DiegoAR98](https://github.com/DiegoAR98/).
+
+## Walkthrough Video
+
+For a walkthrough video that demonstrates the functionality of the application, click [here](https://drive.google.com/file/d/159tXLYOpOKK5ndfdwAHegG43gqiIWBLC/view).

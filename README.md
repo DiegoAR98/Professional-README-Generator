@@ -33,7 +33,7 @@ Contributions to the Professional Readme Generator are welcome! Please fork the 
 
 ## Tests
 
-o run tests, ensure that all development dependencies are installed by running npm install. Then execute npm test to run the test suite. The test suite includes unit tests to verify the functionality of the README generation process.
+To run tests, ensure that all development dependencies are installed by running npm install. Then execute npm test to run the test suite. The test suite includes unit tests to verify the functionality of the README generation process.
 
 ## Questions
 
